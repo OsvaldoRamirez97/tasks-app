@@ -13,7 +13,7 @@ Aplicación creada a partir de un Challenge para Academia ForIT
 Para hacer el deploy hay que utilizar la rama develop, hay que clonar el repositorio y usar los siguiente comandos:
 
 ```bash
-  git clone 
+  git clone https://github.com/OsvaldoRamirez97/tasks-app.git
 ```
 
 ```bash
